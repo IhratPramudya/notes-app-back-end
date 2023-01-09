@@ -1,2 +1,4 @@
 ris.pem
 node_modules
+.env
+.prod.env
